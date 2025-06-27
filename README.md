@@ -29,7 +29,7 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local:
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/portafolio-react.git
+git clone https://github.com/OfficialMYKE/Portafolio.git
 cd portafolio-react
 ```
 
